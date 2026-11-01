@@ -452,6 +452,7 @@ const SKILL_CATEGORIES = [
       { name: "Laravel", level: "Intermédio", note: { pt: "MVC, Eloquent, Autenticação, SaaS", en: "MVC, Eloquent, Authentication, SaaS" } },
       { name: "HTML5 & CSS3", level: "Avançado", note: { pt: "Layout semântico, design responsivo", en: "Semantic layout, responsive design" } },
       { name: "Bootstrap", level: "Intermédio", note: { pt: "Prototipagem rápida de interfaces", en: "Rapid UI prototyping" } },
+      { name: "Electron", level: "Usado em projecto", note: { pt: "Aplicações desktop com SQLite", en: "Desktop applications with SQLite" } },
       { name: "Tailwind CSS", level: "Intermédio", note: { pt: "Estilização orientada a utilitários", en: "Utility-first styling" } }
     ]
   },
