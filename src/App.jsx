@@ -240,7 +240,7 @@ const PERSONAL_INFO = {
   school42: "42 Luanda",
   email: "hepedro@student.42luanda.com",
   socials: {
-    github: "https://github.com/hepedro",
+    github: "https://github.com/EdenKnorr",
     linkedin: "https://www.linkedin.com/in/helderpedro24/",
     atcoder: "https://atcoder.jp/users/Reboladas",
     beecrowd: "https://judge.beecrowd.com/pt/profile/906070"
@@ -320,7 +320,7 @@ const PROJECTS_DATA = [
         "Rigorous error management for invalid inputs, duplicates, and integer overflow"
       ]
     },
-    githubUrl: "https://github.com/hepedro",
+    githubUrl: "https://github.com/EdenKnorr",
     badge: "42 Core Project"
   },
   {
@@ -358,7 +358,7 @@ const PROJECTS_DATA = [
         "Custom shell script broadcasting system metrics to all terminal sessions every 10 minutes"
       ]
     },
-    githubUrl: "https://github.com/hepedro",
+    githubUrl: "https://github.com/EdenKnorr",
     badge: "42 SysAdmin"
   },
   {
@@ -394,7 +394,7 @@ const PROJECTS_DATA = [
         "Non-blocking return of exact character count written"
       ]
     },
-    githubUrl: "https://github.com/hepedro",
+    githubUrl: "https://github.com/EdenKnorr",
     badge: "42 C Library"
   },
   {
@@ -430,7 +430,7 @@ const PROJECTS_DATA = [
         "Optimized string manipulation avoiding memory duplication"
       ]
     },
-    githubUrl: "https://github.com/hepedro",
+    githubUrl: "https://github.com/EdenKnorr",
     badge: "42 Utility"
   }
 ];
