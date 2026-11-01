@@ -440,16 +440,16 @@ const SKILL_CATEGORIES = [
     name: { pt: "Linguagens de Programação", en: "Programming Languages" },
     skills: [
       { name: "C", level: "Avançado", note: { pt: "Gestão de memória, ponteiros, chamadas de sistema", en: "Memory management, pointers, system calls" } },
-      { name: "Python", level: "Intermédio / Avançado", note: { pt: "POO, automação, estruturas de dados", en: "OOP, scripting, data structures" } },
-      { name: "PHP", level: "Intermédio", note: { pt: "Laravel, backend & aplicações SaaS", en: "Laravel backend & web platforms" } },
-      { name: "JavaScript", level: "Intermédio", note: { pt: "DOM, ES6+, APIs Web", en: "DOM, ES6+, Web APIs" } },
+      { name: "Python", level: "Avançado", note: { pt: "POO, automação, estruturas de dados", en: "OOP, scripting, data structures" } },
+      { name: "PHP", level: "Usado em projecto", note: { pt: "Laravel, backend & aplicações SaaS", en: "Laravel backend & web platforms" } },
+      { name: "JavaScript", level: "Usado em projecto", note: { pt: "DOM, ES6+, APIs Web", en: "DOM, ES6+, Web APIs" } },
       { name: "C++", level: "Em Estudo / Prog. Comp.", note: { pt: "Programação competitiva e STL", en: "Competitive programming & STL" } }
     ]
   },
   {
     name: { pt: "Desenvolvimento Web", en: "Web & Frameworks" },
     skills: [
-      { name: "Laravel", level: "Intermédio", note: { pt: "MVC, Eloquent, Autenticação, SaaS", en: "MVC, Eloquent, Authentication, SaaS" } },
+      { name: "Laravel", level: "Avançado", note: { pt: "MVC, Eloquent, Autenticação, SaaS", en: "MVC, Eloquent, Authentication, SaaS" } },
       { name: "HTML5 & CSS3", level: "Avançado", note: { pt: "Layout semântico, design responsivo", en: "Semantic layout, responsive design" } },
       { name: "Bootstrap", level: "Intermédio", note: { pt: "Prototipagem rápida de interfaces", en: "Rapid UI prototyping" } },
       { name: "Electron", level: "Usado em projecto", note: { pt: "Aplicações desktop com SQLite", en: "Desktop applications with SQLite" } },
