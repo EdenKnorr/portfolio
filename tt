@@ -1,0 +1,66 @@
+Actua como um especialista em recrutamento técnico e redacção de currículos para engenharia de software, com experiência em sistemas ATS (Applicant Tracking Systems).
+
+OBJECTIVO
+Criar o meu Curriculum Vitae profissional, que seja aprovado por filtros automáticos (ATS) e que convença um recrutador técnico em menos de 30 segundos. Quero duas versões: português de Portugal e inglês profissional.
+
+DADOS PESSOAIS
+- Nome: Helder Kilenda Jorge Pedro (nome a usar no CV: Helder Pedro)
+- Localização: Luanda, Angola
+- Email: helderk.j.pedro@gmail.com
+- Telefone: +244928805180 | +244957051342
+- Portfólio: https://helderpedro.satfogo.com
+
+TÍTULO PROFISSIONAL
+Software Developer | Computer Science Student
+
+PERFIL (resumo de 3 a 4 linhas)
+Estudante de Ciências da Computação na Universidade Agostinho Neto (UAN) e cadete da 42 Luanda. Experiência prática em desenvolvimento Full Stack (Laravel), programação em C e Python e administração de sistemas Linux. Interesse em algoritmos, estruturas de dados, programação competitiva e desenvolvimento backend. Objectivo: tornar-me engenheiro de software capaz de conceber e optimizar soluções para problemas reais.
+
+FORMAÇÃO
+- Universidade Agostinho Neto (UAN) — Licenciatura em Ciências da Computação. Datas: 10/2026. Em curso.
+- 42 Luanda — Cadete, formação em engenharia de software baseada em projectos e aprendizagem entre pares. Datas: 07/2026. Em curso.
+
+PROJECTOS (a secção mais importante)
+1. School Management System — Plataforma SaaS de gestão escolar para escolas angolanas. Tecnologias: Laravel, PHP, JavaScript, Bootstrap, MySQL. Funcionalidades: gestão de alunos, matrículas e confirmações anuais, turmas e cursos, professores e disciplinas, propinas, faltas, avaliações e pautas, gestão do ano lectivo. Nome comercial: iDuca.
+3. push_swap (42 Luanda) — Algoritmos de ordenação em C com duas stacks e operações limitadas; optimização de movimentos e gestão de memória.
+4. ft_printf (42 Luanda) — Reimplementação do printf em C: argumentos variádicos, conversões e formatação.
+5. get_next_line (42 Luanda) — Leitura de ficheiros linha a linha em C: file descriptors, buffering e alocação dinâmica.
+6. Born2beRoot (42 Luanda) — Máquina virtual Debian com LVM, LUKS, SSH, UFW, gestão de utilizadores e permissões.
+
+COMPETÊNCIAS TÉCNICAS (agrupadas por categoria, em texto simples)
+- Linguagens: C (avançado), Python (avançado), C++, PHP, JavaScript
+- Web e desktop: Laravel (avançado), HTML5 e CSS3 (avançado), Bootstrap, Tailwind CSS, Electron
+- Bases de dados: MySQL, SQLite
+- Sistemas e ferramentas: Linux, Debian, Git, GitHub, VirtualBox, VS Code, Vim
+- Fundamentos: algoritmos, estruturas de dados, programação orientada a objectos, gestão de memória, resolução de problemas
+
+PROGRAMAÇÃO COMPETITIVA
+Participação em AtCoder Beginner Contests e treino contínuo no beecrowd (Python e C++). Preparação para o AoCPC; objectivo de longo prazo: ICPC. Não incluir classificações nem prémios.
+
+EXPERIÊNCIA PROFISSIONAL
+- Professor de Inglês, Português e Caligrafia, Colégio Constância e Filho, Luanda — Março de 2017 a Fevereiro de 2022. Coordenador de período e director de turma. Apresentar como experiência complementar, destacando comunicação, organização e responsabilidade.
+- Técnico de Informática — [ADICIONAR: empresa/local, datas e funções reais]. Se eu não fornecer, omitir.
+
+IDIOMAS
+Português (nativo); Inglês (avançado).
+
+REGRAS ANTI-FILTRO (ATS)
+- Uma única coluna. Sem tabelas, caixas de texto, cabeçalhos ou rodapés com informação, imagens, ícones, gráficos nem barras de competências.
+- Títulos de secção padrão: Perfil, Formação, Projectos, Competências Técnicas, Experiência Profissional, Idiomas (e as equivalentes em inglês: Summary, Education, Projects, Technical Skills, Professional Experience, Languages).
+- Fonte simples (Calibri, Arial ou similar), tamanho 10 a 11 pt, texto seleccionável, sem formatação decorativa.
+- Datas num formato único e consistente (por exemplo, Mar 2017 – Fev 2022).
+- Palavras-chave técnicas escritas por extenso e de forma consistente (por exemplo, "JavaScript", e não só "JS"), distribuídas pelo perfil, projectos e competências.
+- Ordem cronológica inversa. Contactos no topo, em texto simples (links escritos por extenso).
+- Extensão: uma página, no máximo duas. Entrega em .docx e em PDF com texto real (não imagem).
+
+REGRAS DE CONTEÚDO (OBRIGATÓRIAS)
+- Não inventar nada: experiências, datas, prémios, classificações, métricas, números de utilizadores, links nem tecnologias. Quando faltar informação, usar [ADICIONAR] ou perguntar.
+- Não usar clichés ("apaixonado por tecnologia", "sempre a aprender", "pensar fora da caixa").
+- Cada projecto: 1 linha de contexto + 2 a 3 pontos começados por verbo de acção (desenvolvi, implementei, configurei, optimizei), indicando tecnologias e problema resolvido, sem exageros.
+- Tecnologias em estudo não devem ser apresentadas como competências comprovadas.
+- Português de Portugal na versão PT; inglês natural e profissional na versão EN.
+
+PROCESSO
+1. Antes de escrever, lista numa só mensagem todos os campos [ADICIONAR] e [CONFIRMAR] que precisas que eu complete (no máximo 8 perguntas objectivas).
+2. Depois escreve o CV completo nas duas línguas.
+3. No fim, dá-me um checklist curto para testar o CV num verificador de ATS e uma lista de 5 melhorias possíveis (por exemplo, o que acrescentar à medida que eu concluir mais projectos).

@@ -777,6 +777,14 @@ export default function App() {
                   <Mail size={16} />
                   {t.hero.contactBtn}
                 </button>
+                <a
+                  href={`/cv/Helder-Pedro-CV-${lang.toUpperCase()}.pdf`}
+                  download
+                  className="px-6 py-3 rounded-lg border border-[#A3E635]/50 text-[#A3E635] font-mono font-semibold text-sm hover:bg-[#A3E635]/10 transition-all flex items-center gap-2"
+                >
+                  <BookOpen size={16} />
+                  {lang === 'pt' ? 'Descarregar CV' : 'Download CV'}
+                </a>
               </div>
 
               {/* Social / External Profile Links */}
@@ -1184,6 +1192,17 @@ export default function App() {
               </div>
 
               <div className="pt-6 border-t border-[#30363D]/60 space-y-3">
+                <span className="text-xs font-mono text-slate-400 uppercase">CV</span>
+                <div className="flex flex-wrap gap-3">
+                  <a href="/cv/Helder-Pedro-CV-PT.pdf" download className="px-3 py-2 rounded-lg border border-[#30363D] bg-[#0B0F14] text-xs font-mono text-slate-300 hover:text-[#A3E635] hover:border-[#A3E635] transition-all flex items-center gap-2">
+                    <BookOpen size={14} />
+                    CV (PT)
+                  </a>
+                  <a href="/cv/Helder-Pedro-CV-EN.pdf" download className="px-3 py-2 rounded-lg border border-[#30363D] bg-[#0B0F14] text-xs font-mono text-slate-300 hover:text-[#A3E635] hover:border-[#A3E635] transition-all flex items-center gap-2">
+                    <BookOpen size={14} />
+                    CV (EN)
+                  </a>
+                </div>
                 <span className="text-xs font-mono text-slate-400 uppercase">{t.contactSection.profilesLabel}</span>
                 <div className="flex flex-wrap gap-3">
                   <a
